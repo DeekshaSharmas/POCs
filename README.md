@@ -18,6 +18,7 @@
  ┣ 📜 pubspec.yaml            # Dependencies
  ┗ 📜 README.md               # Documentation (This file)
  
+</pre>
 📲 Setup & Installation
 Prerequisites
 Ensure you have:
