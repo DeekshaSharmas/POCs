@@ -1,13 +1,13 @@
 **Google AdMob Ads in Flutter 🚀**
 
-This Flutter project demonstrates the integration of Google AdMob ads, including Banner Ads, Interstitial Ads, and Rewarded Ads.
+<pre>This Flutter project demonstrates the integration of Google AdMob ads, including Banner Ads, Interstitial Ads, and Rewarded Ads.
 
-📌 Features
-✅ Display Banner Ads at the top of the screen.
-✅ Show Interstitial Ads on button click.
-✅ Show Rewarded Ads and grant points to users.
-✅ Handle ad loading and error handling efficiently.
-✅ Use state management to update UI dynamically.
+<pre>📌 Features
+<pre>✅ Display Banner Ads at the top of the screen.
+<pre>✅ Show Interstitial Ads on button click.
+<pre>✅ Show Rewarded Ads and grant points to users.
+<pre>✅ Handle ad loading and error handling efficiently.
+<pre>✅ Use state management to update UI dynamically.
 
 
 📂 Project Structure
