@@ -39,11 +39,11 @@ Add AdMob App ID in Android & iOS
 🔹 Android Setup
 Open android/app/src/main/AndroidManifest.xml
 Add your AdMob App ID inside <application> tag:
-
+<Pre>
 <meta-data
     android:name="com.google.android.gms.ads.APPLICATION_ID"
     android:value="ca-app-pub-3940256099942544~3347511713"/> <!-- Replace with your AdMob App ID -->
-
+</Pre>
 🔹 iOS Setup
 Open ios/Runner/Info.plist
 Add the following inside <dict>:
