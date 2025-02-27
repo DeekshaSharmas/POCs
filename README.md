@@ -45,16 +45,10 @@ Add your AdMob App ID inside <application> and meta-data tag:
 
 🔹 iOS Setup
 Open ios/Runner/Info.plist
-Add the following inside <dict>:
-<key>GADApplicationIdentifier</key>
-<string>ca-app-pub-3940256099942544~3347511713</string> <!-- Replace with your AdMob App ID -->
-<key>SKAdNetworkItems</key>
-<array>
-    <dict>
-        <key>SKAdNetworkIdentifier</key>
-        <string>cstr6suwn9.skadnetwork</string>
-    </dict>
-</array>
+Add GADApplicationIdentifier key with value 
+ca-app-pub-3940256099942544~3347511713<!-- Replace with your AdMob App ID -->
+And
+SKAdNetworkIdentifier key with value cstr6suwn9.skadnetwork
 
 
 🖥️ Running the Project
