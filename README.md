@@ -9,6 +9,7 @@ This Flutter project demonstrates the integration of Google AdMob ads, including
 ✅ Handle ad loading and error handling efficiently.
 ✅ Use state management to update UI dynamically.
 
+
 📂 Project Structure
 📦 google_ads_flutter
  ┣ 📂 lib
