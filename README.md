@@ -1,4 +1,4 @@
-Google AdMob Ads in Flutter 🚀
+**Google AdMob Ads in Flutter 🚀**
 This Flutter project demonstrates the integration of Google AdMob ads, including Banner Ads, Interstitial Ads, and Rewarded Ads.
 
 📌 Features
@@ -28,6 +28,7 @@ Clone the Repository
 git clone https://github.com/your-username/google-ads-flutter.git
 cd google-ads-flutter
 
+
 Add Dependencies
 Ensure you have google_mobile_ads added in pubspec.yaml:
 
@@ -39,6 +40,7 @@ Add your AdMob App ID inside <application> tag:
 <meta-data
     android:name="com.google.android.gms.ads.APPLICATION_ID"
     android:value="ca-app-pub-3940256099942544~3347511713"/> <!-- Replace with your AdMob App ID -->
+
 🔹 iOS Setup
 Open ios/Runner/Info.plist
 Add the following inside <dict>:
@@ -51,6 +53,8 @@ Add the following inside <dict>:
         <string>cstr6suwn9.skadnetwork</string>
     </dict>
 </array>
+
+
 🖥️ Running the Project
 Run the app on a physical device or emulator with:
 
