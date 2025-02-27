@@ -62,5 +62,5 @@ Interstitial Ad    ca-app-pub-3940256099942544/1033173712
 Rewarded Ad    ca-app-pub-3940256099942544/5224354917
 👉 Replace with your own AdMob ad unit IDs in production!
 
-![alt text](https://github.com/DeekshaSharmas/POCs/blob/main/Assessts/video.mp4)
+/Users/deekshasharma/Desktop/AD_POC/Assessts/video.mp4
 
