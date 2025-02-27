@@ -61,6 +61,5 @@ Banner Ad    ca-app-pub-3940256099942544/6300978111
 Interstitial Ad    ca-app-pub-3940256099942544/1033173712
 Rewarded Ad    ca-app-pub-3940256099942544/5224354917
 👉 Replace with your own AdMob ad unit IDs in production!
-
-/Users/deekshasharma/Desktop/AD_POC/Assessts/video.mp4
+![alt text](Assessts/video.mp4)
 
